@@ -7,4 +7,4 @@ class Shoe
     @brend = brend
   end
   
-  
+end
