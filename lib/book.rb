@@ -20,8 +20,8 @@ class Book
     @page_content = num
   end
   
-  def page_content
-    @page_content
+  def page_count
+    @page_count
   end
   
   
