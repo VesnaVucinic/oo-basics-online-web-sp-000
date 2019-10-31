@@ -22,6 +22,8 @@ class Book
   
   def page_content
     @page_content
+  end
+  
   
 end
 
